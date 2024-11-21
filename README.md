@@ -15,18 +15,18 @@ This project is divided into multiple tasks. Below is a summary of the Level 1 t
 ### Task 1
 
 
- <img src="Level-2 T-1.png" alt="Data Cleaning and Exploration">
+ <img src="Level-3 T-1.png" alt="Data Cleaning and Exploration">
 
 
 ### Task 2
 
 
- <img src="Level-2 T-2.png" alt="Data Cleaning and Exploration">
+ <img src="Level-3 T-2.png" alt="Data Cleaning and Exploration">
 
 ### Task 3
 
 
- <img src="Level-2 T-3.png" alt="Data Cleaning and Exploration">
+ <img src="Level-3 T-3.png" alt="Data Cleaning and Exploration">
 
 
 Tools & Libraries Used
