@@ -10,7 +10,7 @@ These tasks focus on cleaning, exploring, and visualizing the data to derive mea
 Tasks Completed - Level 3 (T1 to T3)
 ------------------------------------
 
-This project is divided into multiple tasks. Below is a summary of the Level 1 tasks (T1 to T4) that have been completed:
+This project is divided into multiple tasks. Below is a summary of the Level 1 tasks (T1 to T3) that have been completed:
 
 ### Task 1
 
